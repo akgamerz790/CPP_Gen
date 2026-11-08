@@ -15,5 +15,4 @@ jobs:
         with:
           name: exe
           path: '**/bin/Release/**/CPP_Gen.exe'
-          name: dll
           path: '**/bin/Release/**/CPP_Gen.dll'
