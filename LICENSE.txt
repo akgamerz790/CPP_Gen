@@ -1,0 +1,26 @@
+PRIVATE LICENSING - v1.0.0.0:0f0 - AKEF
+
+Clause 1 : No
+
+ - no
+
+Clause 2 : Do not
+
+ - Do not the Code.
+
+Clause 3 : Non Diclosure usage
+
+ - Do not use, bootstrap, embed, reuse, utilize in any kind of software derivation or private use;
+
+Clause 4 : Credits
+
+ - Using user must retain the Credits and Original PRIVATE LICENSE File with the code at any cost if it costs life
+
+Clause 5 : All generated projects
+
+ - All generated projects by the help, assist, usage, execution from this software must be released as F.O.S.S. Free and Open Source Softwares and with Public Domain Licensing. (This does not overrides Clause 4 | User must retain this License.txt File)
+
+END OF DOCUMENT
+
+[All these Licensing rights are subject to change, one must check in a while for updates]
+[All further patches, or ammendment to this License will be valid at source and will not be disputable in any sense]
